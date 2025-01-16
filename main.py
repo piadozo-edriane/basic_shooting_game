@@ -39,7 +39,7 @@ screen = pygame.display.set_mode((800, 600 )) # 800 width 600 height display the
 
 #Change the caption and the icon of the game
 pygame.display.set_caption("Space game ")
-icon = pygame.image.load ("spaceship.png")
+icon = pygame.image.load ("space.png")
 pygame.display.set_icon(icon)
 
 
